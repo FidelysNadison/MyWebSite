@@ -1,31 +1,31 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Pew Pew",
+    subtitle: "Projet Js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-1.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Hangman",
+    subtitle: "Projet Js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-2.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Snake Game",
+    subtitle: "Projet Js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-3.gif",
     link: "https://reactbootcamp.com",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "My Web Site",
+    subtitle: "Projet React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
@@ -51,10 +51,16 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
+  "Git",
+  "GitHub",
+  "Html",
+  "Css",
+  "Sass",
+  "Boostrap",
+  "Javascript",
   "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Php",
+  "MySql",
+  "Figma",
+  "Trello",
 ];
