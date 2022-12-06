@@ -37,8 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
-          />
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10491.278827037102!2d2.252975002058119!3d48.89977307613343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6659e45dfb66b%3A0xa459bb1a88f7a761!2s46%20Bd%20de%20Verdun%2C%2092400%20Courbevoie%2C%20France!5e0!3m2!1sen!2sbe!4v1670340152803!5m2!1sen!2sbe"/>
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
