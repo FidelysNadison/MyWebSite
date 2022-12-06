@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Projet Js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
+    image: "./PewPew.png",
     link: "https://reactbootcamp.com",
   },
   {
@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Projet Js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
+    image: "./Hangman.png",
     link: "https://reactbootcamp.com",
   },
   {
@@ -20,7 +20,7 @@ export const projects = [
     subtitle: "Projet Js",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+    image: "./SnakeGame.png",
     link: "https://reactbootcamp.com",
   },
   {
@@ -28,7 +28,7 @@ export const projects = [
     subtitle: "Projet React",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
+    image: "./WebSite.png",
     link: "https://reactbootcamp.com",
   },
 ];
