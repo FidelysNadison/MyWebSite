@@ -5,7 +5,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./PewPew.png",
-    link: "https://reactbootcamp.com",
+    link: "https://fidelysnadison.github.io/Pew-Pew/",
   },
   {
     title: "Hangman",
@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./Hangman.png",
-    link: "https://reactbootcamp.com",
+    link: "https://fidelysnadison.github.io/Hangman/",
   },
   {
     title: "Snake Game",
@@ -21,7 +21,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./SnakeGame.png",
-    link: "https://reactbootcamp.com",
+    link: "https://fidelysnadison.github.io/snakeGame/",
   },
   {
     title: "My Web Site",
@@ -29,7 +29,7 @@ export const projects = [
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./WebSite.png",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/FidelysNadison?tab=repositories",
   },
 ];
 
@@ -63,4 +63,11 @@ export const skills = [
   "MySql",
   "Figma",
   "Trello",
+];
+
+export const parcours = [
+ {
+  quote:
+  "",
+ }
 ];
