@@ -1,6 +1,6 @@
 import { AcademicCapIcon } from "@heroicons/react/solid";
 import React from "react";
-import { parcours, projects } from "../data";
+import { parcours} from "../data";
 
 export default function Parcours() {
   return (
