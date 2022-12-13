@@ -36,7 +36,7 @@ export default function Contact() {
             style={{ filter: "opacity(0.7)" }}
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10491.278827037102!2d2.252975002058119!3d48.89977307613343!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6659e45dfb66b%3A0xa459bb1a88f7a761!2s46%20Bd%20de%20Verdun%2C%2092400%20Courbevoie%2C%20France!5e0!3m2!1sen!2sbe!4v1670340152803!5m2!1sen!2sbe"/>
           <div className="bg-white relative flex flex-wrap py-6 rounded shadow-md">
-            <div className="lg:w-1/2 px-6">
+            <div className="lg:w-1/2 px-11">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 ADDRESS
               </h2>
@@ -64,7 +64,7 @@ export default function Contact() {
           name="test"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0">
-          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+          <h2 className="text-black sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact me here
           </h2>
           <p className="leading-relaxed mb-5">
