@@ -8,7 +8,7 @@ export default function Parcours() {
         <div className="container px-5 py-10 mx-auto">
           <div className="text-center mb-20">
             <AcademicCapIcon className="w-10 inline-block mb-4" />
-            <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
+            <h1 className="sm:text-4xl text-3xl font-medium title-font text-black mb-4">
               Parcours
             </h1>
           </div>
@@ -80,7 +80,7 @@ export default function Parcours() {
                 <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Janv 22 - Août 22</time>
                 <h2>BeCode</h2>
                 <h3>Développeur Web Junior</h3>
-                <ul class="text-base font-normal text-gray-500 dark:text-gray-400">
+                <ul class="text-base font-normal text-gray-400 dark:text-gray-400">
                   <li>Programmer dans des langages informatiques spécifiques (Html, Css,JavaScript, PhP et MySql)</li>
                   <li>Travailler en équipe et en mode projet (GitHub, Commandes Git,Trello)</li>
                   <li>Présenter et convaincre de la pertinence de la solution développée.</li>
@@ -91,7 +91,7 @@ export default function Parcours() {
             </li>
             <li class="relative mb-6 sm:mb-0">
               <div class="flex items-center">
-                <div class="flex z-10 justify-center items-center w-10 h-8 bg-white-200 rounded-full ring-0 ring-white dark:bg-blue-900 sm:ring-1 dark:ring-gray-900 shrink-0">
+                <div class="flex z-10 justify-center items-center w-10 h-8 bg-white-200 rounded-full ring-0 ring-white white:bg-white-900 sm:ring-1 whitering-white-900 shrink-0">
                 <img src="./esgi.png" alt="logo-ESGI"/>
                 </div>
                 <div class="hidden sm:flex w-full bg-gray-200 h-0.5 dark:bg-gray-700"></div>
