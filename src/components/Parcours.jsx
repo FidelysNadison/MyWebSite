@@ -15,7 +15,7 @@ export default function Parcours() {
             </h1>
           </div>
           
-<VerticalTimeline>
+<VerticalTimeline classStyle ={{color: 'rgb(126, 87, 194)'}}>
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
     contentStyle={{ background: 'rgb(126, 87, 194)', color: '#ffff' }}
