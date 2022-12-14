@@ -10,9 +10,10 @@ export default function About() {
             <br className="hidden lg:inline-block" /> A junior développeur Web .
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          Développeur Web Junior sortant d'une formation auprès de BeCode ( Cousin Belge de Simplon ). <br />
+          Orienté en dev Front mais aussi à l'aise en Back. <br />
+          Je suis à la recherche d'une entreprise pour un contrat Altérnanace 
+          afin de vivre une éxpérience professionnel tout en développement d'avantages mes SKills.
           </p>
           <div className="flex justify-center">
             <a
