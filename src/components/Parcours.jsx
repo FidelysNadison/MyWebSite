@@ -72,7 +72,7 @@ export default function Parcours() {
     className="vertical-timeline-element--work"
     contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
-    date="2006 - 2008"
+    date="Nov 21 - Juil 22"
     iconStyle={{background: 'rgb(233, 30, 99)', color: '#ffff' }}
     icon={<AcademicCapIcon/>}
   >
