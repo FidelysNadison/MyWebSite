@@ -21,6 +21,8 @@ export default function Parcours() {
     contentStyle={{ background: 'rgb(126, 87, 194)', color: '#ffff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(126, 87, 194)' }}
     date=" Sept 22 - Dec 1 " 
+    iconStyle={{background: 'rgb(126, 87, 194)', color: '#ffff' }}
+    icon={<AcademicCapIcon/>}
   >
     <h3 className="vertical-timeline-element-title">ESGI</h3>
     <h4 className="vertical-timeline-element-subtitle">1ère année Bachelor en Informatique</h4>
@@ -36,6 +38,8 @@ export default function Parcours() {
     contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
     date="Janv 22 - Août 22"
+    iconStyle={{background: 'rgb(233, 30, 99)', color: '#ffff' }}
+    icon={<AcademicCapIcon/>}
   >
     <h3 className="vertical-timeline-element-title">BeCode</h3>
     <h4 className="vertical-timeline-element-subtitle">Développeur Web Junior</h4>
@@ -52,6 +56,8 @@ export default function Parcours() {
     contentStyle={{ background: 'rgb(126, 87, 194)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(126, 87, 194)' }}
     date="Août 22 - Dec 22"
+    iconStyle={{background: 'rgb(126, 87, 194)', color: '#ffff' }}
+    icon={<AcademicCapIcon/>}
   >
     <h3 className="vertical-timeline-element-title">OpenClassroom</h3>
     <h4 className="vertical-timeline-element-subtitle">Développeur Web</h4>
@@ -67,7 +73,8 @@ export default function Parcours() {
     contentStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
     date="2006 - 2008"
-    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+    iconStyle={{background: 'rgb(233, 30, 99)', color: '#ffff' }}
+    icon={<AcademicCapIcon/>}
   >
     <h3 className="vertical-timeline-element-title">E-Media</h3>
     <h4 className="vertical-timeline-element-subtitle">Communication Audiovisuel et Numerique</h4>
@@ -82,7 +89,8 @@ export default function Parcours() {
     contentStyle={{ background: 'rgb(126, 87, 194)', color: '#fff' }}
     contentArrowStyle={{ borderRight: '7px solid  rgb(126, 87, 194)' }}
     date="April 2013"
-    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#ffff' }}
+    iconStyle={{background: 'rgb(126, 87, 194)', color: '#ffff' }}
+    icon={<AcademicCapIcon/>}
   >
     <h3 className="vertical-timeline-element-title">NEXTA</h3>
     <h4 className="vertical-timeline-element-subtitle">Rédaction web et Marketing digital</h4>
