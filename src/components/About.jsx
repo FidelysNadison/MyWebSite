@@ -11,7 +11,7 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
           Développeur Web Junior sortant d'une formation auprès de BeCode ( Cousin Belge de Simplon ). <br />
-          Orienté en dev Front mais aussi à l'aise en Back. <br />
+          Orienté vers le dev Front mais aussi à l'aise en Back. <br />
           Je suis à la recherche d'une entreprise pour un contrat Altérnanace 
           afin de vivre une éxpérience professionnel tout en développement d'avantages mes SKills.
           </p>
