@@ -11,7 +11,7 @@ export default function Parcours() {
           <div className="text-center mb-20">
             <AcademicCapIcon className="w-10 inline-block mb-4" />
             <h1 className="sm:text-4xl text-3xl font-medium title-font text-black mb-4">
-              Formation
+              Education
             </h1>
           </div>
 

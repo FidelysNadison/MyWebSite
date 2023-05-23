@@ -12,7 +12,7 @@ export default function Projects() {
             Portfolio
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-black">
-            Voici  quelque une des projets que j'ai réalisé avec leur déscriptions. <br />
+            Voici  quelque une des projets que j'ai réalisé. <br />
             N'ésitez pas à cliquer pour voir un Demo ;-)
           </p>
         </div>
