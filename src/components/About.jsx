@@ -10,11 +10,11 @@ export default function About() {
             <br className="hidden lg:inline-block" /> A junior développeur Web .
           </h1>
           <p className="mb-8 leading-relaxed">
-          Développeur Web Junior sortant d'une formation auprès de BeCode ( Cousin Belge de Simplon ). <br />
-          Orienté vers le dev Front mais aussi à l'aise en Back. <br />
-          Je suis à la recherche d'une entreprise pour un contrat Altérnanace 
-          afin de vivre une éxpérience professionnel tout en développement d'avantages mes SKills.
-          </p>
+          I am a Junior Web Developer coming from a training program at BeCode, the Belgian counterpart of Simplon.
+          Currently enrolled in the first year of a Bachelor's degree in Alternance at ESGI, I am actively seeking a company to apply my skills.
+          I have a solid command of tools such as Git, GitHub, HTML, CSS, Sass, JavaScript, PHP, MySQL, Figma, Trello, Canva, and React.
+          In addition to my technical skills, I am also known for being curious, sociable, pragmatic, organized, and capable of working effectively in a team.
+          </p> 
           <div className="flex justify-center">
             <a
               href="https://www.linkedin.com/in/fidelysnadison/"
