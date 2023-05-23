@@ -21,12 +21,10 @@ export default function Parcours() {
     contentArrowStyle={{ borderRight: '7px solid  rgb(233, 30, 99)' }}
     date="2023 - 2024 "
     iconStyle={{background: 'rgb(233, 30, 99)', color: '#ffff' }}
-    icon={<AcademicCapIcon/>}
-  >
+    icon={<AcademicCapIcon/>}>
     <h3 className="vertical-timeline-element-title">ESGI Paris</h3>
     <h4 className="vertical-timeline-element-subtitle">1er année Bachelor</h4>
     <p>A la recherche d'une enreprise pour l'Altérnance</p>
-    
 </VerticalTimelineElement>
 <VerticalTimeline classStyle ={{color: 'rgb(126, 87, 194)'}}>
   <VerticalTimelineElement
