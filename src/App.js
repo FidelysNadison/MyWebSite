@@ -9,7 +9,7 @@ import Parcours from "./components/Parcours";
 
 export default function App() {
   return (
-    <main className="text-white-400 bg-purple-200 body-font">
+    <main className="text-white-400 bg-white body-font">
       <Navbar />
       <About />
       <Parcours />
